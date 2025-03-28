@@ -1,0 +1,1 @@
+document.getElementById("footer").innerHTML = '<p>Магазин настольных игр "Настольная фантазия", 2025</p>';

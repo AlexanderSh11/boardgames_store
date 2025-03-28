@@ -1,0 +1,1 @@
+document.getElementById("header").innerHTML = '<h1>Магазин настольных игр "Настольная фантазия"</h1>';
